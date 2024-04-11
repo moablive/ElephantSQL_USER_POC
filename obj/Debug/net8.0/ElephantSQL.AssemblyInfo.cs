@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElephantSQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c18e434e16de215969c2d674c70f55c336d8e40b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+789b3d85ddb76a43defb05fd671cbf7fdbe0f926")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElephantSQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElephantSQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
