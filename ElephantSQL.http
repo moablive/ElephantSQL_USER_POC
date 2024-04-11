@@ -1,0 +1,6 @@
+@ElephantSQL_HostAddress = http://localhost:5068
+
+GET {{ElephantSQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
